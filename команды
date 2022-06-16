@@ -1,0 +1,26 @@
+Памятка по virtualenv и изолированным проектам на Python
+pip freeze > requirements.txt
+pip install -r requirements.txt
+
+
+venv\Scripts\Activate.ps1     
+
+
+<div class="container-fluid mt-n22 px-6">
+Это контейнер на картинке
+
+
+def __init__(self, user, *args, **kwargs):
+    self.user = user
+    super(RSVPForm, self).__init__(*args, **kwargs)
+
+def sample_view(request):
+    current_user = request.user
+    print current_user.id
+
+if request.user.is_authenticated:
+    # Do something for authenticated users.
+else:
+    # Do something for anonymous users.
+
+<div id="booking" class="section" style="background-image: url('{% static 'img/goriz.jpg' %}');">
